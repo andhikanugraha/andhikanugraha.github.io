@@ -1,3 +1,16 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Andhika Nugraha
+url:              http://andhikanugraha.github.io
+
+author:
+  name:           Andhika Nugraha
+  url:            https://andhikanugraha.github.io
+
+paginate:         1
